@@ -10,3 +10,7 @@ Fun Math Related Quotes, Equations, And Thoughts
 
 - "Some calculus-tricks are quite easy. Some are enormously difficult. The fools who write the textbooks of advanced mathematics ... seem to desire to impress you with their tremendous cleverness by going about it in the most difficult way. Being myself a remarkably stupid fellow, I have had to unteach myself the difficulties, and now beg to present to my fellow fools the parts that are not hard. Master these thoroughly, and the rest will follow. What one fool can do, another can."
 -Silvanus P. Thompson, Calculus Made Easy
+
+# Best Utensils For doing Math
+- Pentel GraphGear 1000 pencil, Nice weight, 0.5mm
+- Need to Find More paper, I heard people like unlined blank sheets for math
