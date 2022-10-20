@@ -22,7 +22,7 @@ This was all fine and well, but this general definition of the dot product is no
 
 ${\displaystyle \mathbf {a} \cdot \mathbf {b} =\|\mathbf {a} \|\ \|\mathbf {b} \|\cos \theta}$
 
-  ${\displaystyle \frac{\mathbf {a} \cdot \mathbf {b}}{\|\mathbf {a} \|\ \|\mathbf {b}} = \|\cos \theta}$
+  ${\displaystyle \frac{\mathbf {a} \cdot \mathbf {b}}{\|\mathbf {a} \|\ \|\mathbf {b}\|} = \cos \theta}$
 
 # Best Utensils For doing Math
 - Pentel GraphGear 1000 pencil, Nice weight, 0.5mm
