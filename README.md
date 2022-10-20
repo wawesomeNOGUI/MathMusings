@@ -21,7 +21,8 @@ We can use the geometric definition of the dot product, ${\displaystyle \mathbf 
 This was all fine and well, but this general definition of the dot product is not in a format condusive to solving for $\theta$, so before typing it in to our program for the robot, we must first use algebra to find an equivalent function for our use case of finding $\theta$, the angle between the two vectors.
 
 ${\displaystyle \mathbf {a} \cdot \mathbf {b} =\|\mathbf {a} \|\ \|\mathbf {b} \|\cos \theta}$
-${\displaystyle \mathbf {a} \cdot \mathbf {b} =\|\mathbf {a} \|\ \|\mathbf {b} \|\cos \theta}$
+
+  ${\displaystyle {\mathbf {a} \cdot \mathbf {b}} / {\|\mathbf {a} \|\ \|\mathbf {b}  = \|\cos \theta}$
 
 # Best Utensils For doing Math
 - Pentel GraphGear 1000 pencil, Nice weight, 0.5mm
