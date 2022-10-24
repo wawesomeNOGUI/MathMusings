@@ -31,5 +31,6 @@ ${\displaystyle \arccos{ \frac{\mathbf {a} \cdot \mathbf {b}}{\|\mathbf {a} \|\ 
 - Pentel GraphGear 1000 pencil, Nice weight, 0.5mm
 - Need to Find More paper, I heard people like unlined blank sheets for math
 
-![image](https://user-images.githubusercontent.com/67801725/197430296-b5b8e91f-a325-468d-9006-9ca25e1767ee.png)
+![image](https://user-images.githubusercontent.com/67801725/197430475-ef14f23a-1e00-4537-84d4-b9e152f8d47f.png)
+
 
