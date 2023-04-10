@@ -28,7 +28,7 @@ ${\displaystyle \frac{\mathbf {a} \cdot \mathbf {b}}{\|\mathbf {a} \|\ \|\mathbf
 ${\displaystyle \arccos{ \frac{\mathbf {a} \cdot \mathbf {b}}{\|\mathbf {a} \|\ \|\mathbf {b}\|} } = \theta}$
 
 # Courses
-All of calculus is very good algebra practice. This means through these courses you get very good at solving for certain variables, transforming complex equations into a simpler equivalent form, and noticing patterns to quickly solve problems e.g. factoring, completing the square. 
+All of calculus is very good algebra practice. This means through these courses you get very good at manipulating equations to solve for certain variables, transforming complex equations into a simpler equivalent form, and noticing patterns to quickly solve equations e.g. factoring, completing the square. 
 - **Calculus I:** Thinking about continuous numbers (limits) and demonstrating how to solve limits. Properties of curves like slope and area (derivatives and integrals) and tricks to solve for these properties: power rule, chain rule, u substitution. Algebra and trigonometry practice. 
 
 
