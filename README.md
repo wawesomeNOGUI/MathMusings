@@ -29,8 +29,8 @@ ${\displaystyle \arccos{ \frac{\mathbf {a} \cdot \mathbf {b}}{\|\mathbf {a} \|\ 
 
 # Courses
 All of calculus is very good algebra practice. This means through these courses you get very good at solving for certain variables, transforming complex equations into a simpler equivalent form, and noticing patterns to quickly solve problems e.g. factoring, completing the square. 
-- Calculus I: Thinking about continuous numbers (limits) and demonstrating how to solve limits. Properties of curves like slope and area (derivatives and integrals) and tricks to solve for these properties: power rule, chain rule, u substitution. Algebra and trigonometry practice. 
-- Calculus II: More solving derivatives and integrals. Integral puzzle solving: partial fractions, trig sub, integration by parts. Applications of integrals: arc length, volume and surface area of rotation. Thinking about infinite series (addition of terms), how to solve for convergence or divergence. Approximating other functions by addition of polynomials: taylor series. Parametric curves with calculus concepts (derivative, integrals).
+- **Calculus I:** Thinking about continuous numbers (limits) and demonstrating how to solve limits. Properties of curves like slope and area (derivatives and integrals) and tricks to solve for these properties: power rule, chain rule, u substitution. Algebra and trigonometry practice. 
+- **Calculus II:** More solving derivatives and integrals. Integral puzzle solving: partial fractions, trig sub, integration by parts. Applications of integrals: arc length, volume and surface area of rotation. Thinking about infinite series (addition of terms), how to solve for convergence or divergence. Approximating other functions by addition of polynomials: taylor series. Parametric curves with calculus concepts (derivative, integrals).
 
 ![image](https://user-images.githubusercontent.com/67801725/197430475-ef14f23a-1e00-4537-84d4-b9e152f8d47f.png)
 
