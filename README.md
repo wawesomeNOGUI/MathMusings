@@ -28,9 +28,11 @@ ${\displaystyle \frac{\mathbf {a} \cdot \mathbf {b}}{\|\mathbf {a} \|\ \|\mathbf
 ${\displaystyle \arccos{ \frac{\mathbf {a} \cdot \mathbf {b}}{\|\mathbf {a} \|\ \|\mathbf {b}\|} } = \theta}$
 
 # Courses
-All of calculus is very good algebra practice. This means through these courses you get very good at manipulating equations to solve for certain variables, transforming complex equations into a simpler equivalent form, and noticing patterns to quickly solve equations e.g. factoring, completing the square. 
-- **Calculus I:** Thinking about continuous numbers (limits) and demonstrating how to solve limits. Properties of curves like slope and area (derivatives and integrals) and tricks to solve for these properties: power rule, chain rule, u substitution. Algebra and trigonometry practice. 
+All of calculus is very good algebra practice. This means through these courses you get very good at manipulating equations to solve for certain variables, transforming complex equations into a simpler equivalent form, and noticing patterns to quickly solve equations e.g. factoring, completing the square.
 
+Calculus is also very good at teaching you how to think about and visualize curves. Calculus is a drawing class. You can draw defined curves or solve an unknown variable to draw curves such as in calculating the derivative to splice curves together smoothly.
+
+- **Calculus I:** Thinking about continuous numbers (limits) and demonstrating how to solve limits. Properties of curves like slope and area (derivatives and integrals) and tricks to solve for these properties: power rule, chain rule, u substitution. Algebra and trigonometry practice. 
 
 - **Calculus II:** More solving derivatives and integrals. Integral puzzle solving: partial fractions, trig sub, integration by parts. Applications of integrals: arc length, volume and surface area of rotation. Thinking about infinite series (addition of terms), how to solve for convergence or divergence. Approximating other functions by addition of polynomials: taylor series. Parametric curves with calculus concepts (derivative, integrals).
 
