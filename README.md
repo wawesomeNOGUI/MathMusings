@@ -27,6 +27,8 @@ ${\displaystyle \frac{\mathbf {a} \cdot \mathbf {b}}{\|\mathbf {a} \|\ \|\mathbf
 
 ${\displaystyle \arccos{ \frac{\mathbf {a} \cdot \mathbf {b}}{\|\mathbf {a} \|\ \|\mathbf {b}\|} } = \theta}$
 
+Oh, also physics. I didn't really have physics class in high school, so it was a little bit of a shock to me in college. You use a lot of algebra in physics. It is really cool solving physics problems and it is very helpful to have a strong algebra background. And algebra, or figuring, really shows up everywhere, though I often didn't notice because many problems that show up in computer science or otherwise feel different or are easier to solve than textbook math problems. So getting good at textbook problems is helpful for solving many simpler problems that show up in physics or coding with great confidence. 
+
 # Courses
 All of calculus is very good algebra practice. This means through these courses you get very good at manipulating equations to solve for certain variables, transforming complex equations into a simpler equivalent form, and noticing patterns to quickly solve equations e.g. factoring, completing the square.
 
