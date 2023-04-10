@@ -30,7 +30,13 @@ ${\displaystyle \arccos{ \frac{\mathbf {a} \cdot \mathbf {b}}{\|\mathbf {a} \|\ 
 # Courses
 All of calculus is very good algebra practice. This means through these courses you get very good at solving for certain variables, transforming complex equations into a simpler equivalent form, and noticing patterns to quickly solve problems e.g. factoring, completing the square. 
 - **Calculus I:** Thinking about continuous numbers (limits) and demonstrating how to solve limits. Properties of curves like slope and area (derivatives and integrals) and tricks to solve for these properties: power rule, chain rule, u substitution. Algebra and trigonometry practice. 
+
+
 - **Calculus II:** More solving derivatives and integrals. Integral puzzle solving: partial fractions, trig sub, integration by parts. Applications of integrals: arc length, volume and surface area of rotation. Thinking about infinite series (addition of terms), how to solve for convergence or divergence. Approximating other functions by addition of polynomials: taylor series. Parametric curves with calculus concepts (derivative, integrals).
+
+- **Calculus III**:
+
+- **Discrete**: This course is taught differently by each teacher. My teacher mainly focused on rigourous proof writing. We learned proofs using the properties of integers, the definitions of even, odd, prime, quotient + remainder, divides by (is a factor of). Definitions of sets, boolean logic, and touched on number representations. We also learned "Boolean Algebra" aka finding equivalent boolean expressions using simple and derived rules such as Demorgan's laws. Boolean logic rules are easily proved and demonstrated using truth tables to show for every possiblity of input, the expressions are equivalent. 
 
 ![image](https://user-images.githubusercontent.com/67801725/197430475-ef14f23a-1e00-4537-84d4-b9e152f8d47f.png)
 
