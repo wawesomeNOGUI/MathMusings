@@ -53,7 +53,7 @@ I always felt frustrated in math classes when I couldn't understand, or at least
   - **Numerical solution of ordinary differential equations** (single variable) e.g. Runge-Kutta, Euler's Method (Midpoint), Heun's
   - **Interpolation** e.g. Newton Interpolating Polynomials (linear, 2nd order, nth order), Lagrange interpolating polynomials.
 
-  This course had heavy integration with MATLAB which was a great experience, although boring at first when the first set of lectures was an introduction to MATLAB syntax. Numerical anaylisis is inherent in using computers to perform calculations. Being active in robotics club and utilzing sensors along with microncontroller coding gave me great appreciation for this class and topic. (I am also a calculator enthusiast.)      
+  This course had heavy integration with MATLAB which was a great experience, although boring at first when the first set of lectures was an introduction to MATLAB syntax. Numerical analysis is inherent in using computers to perform calculations. Being active in robotics club and utilzing sensors along with microncontroller coding gave me great appreciation for this class and topic. (I am also a calculator enthusiast.)      
 
 ![image](https://user-images.githubusercontent.com/67801725/197430475-ef14f23a-1e00-4537-84d4-b9e152f8d47f.png)
 
