@@ -8,10 +8,10 @@ Fun Math Related Quotes, Equations, And Thoughts
 - https://www.overleaf.com/learn/latex/Mathematical_expressions
 
 # Quotes
-- "All of these different applications of the derivative illustrate the fact that part of the power of mathematics lies in its abstractness. A single abstract mathematical concept (such as the derivative) can have different interpretations in each of the sciences. When we develop the properties of the mathematical concept once and for all, we can then turn around and apply these results to all of the sciences. This is much more efficient than developing properties of special concepts in each separate science. The French mathematician Joseph Fourier (1768–1830) put it succinctly: “Mathematics compares the most diverse phenomena and discovers the secret analogies that unite them.”"
+> "All of these different applications of the derivative illustrate the fact that part of the power of mathematics lies in its abstractness. A single abstract mathematical concept (such as the derivative) can have different interpretations in each of the sciences. When we develop the properties of the mathematical concept once and for all, we can then turn around and apply these results to all of the sciences. This is much more efficient than developing properties of special concepts in each separate science. The French mathematician Joseph Fourier (1768–1830) put it succinctly: “Mathematics compares the most diverse phenomena and discovers the secret analogies that unite them.”"
 -James Stewart, Calculus 9E
 
-- "Some calculus-tricks are quite easy. Some are enormously difficult. The fools who write the textbooks of advanced mathematics ... seem to desire to impress you with their tremendous cleverness by going about it in the most difficult way. Being myself a remarkably stupid fellow, I have had to unteach myself the difficulties, and now beg to present to my fellow fools the parts that are not hard. Master these thoroughly, and the rest will follow. What one fool can do, another can."
+> "Some calculus-tricks are quite easy. Some are enormously difficult. The fools who write the textbooks of advanced mathematics ... seem to desire to impress you with their tremendous cleverness by going about it in the most difficult way. Being myself a remarkably stupid fellow, I have had to unteach myself the difficulties, and now beg to present to my fellow fools the parts that are not hard. Master these thoroughly, and the rest will follow. What one fool can do, another can."
 -Silvanus P. Thompson, Calculus Made Easy
 
 # Applications
@@ -47,11 +47,11 @@ I always felt frustrated in math classes when I couldn't understand, or at least
 - **Discrete:** This course is taught differently by each teacher. My teacher mainly focused on rigourous proof writing. We learned proofs using the properties of integers, the definitions of even, odd, prime, quotient + remainder, divides by (is a factor of). Definitions of sets, boolean logic, and touched on number representations. We also learned "Boolean Algebra" aka finding equivalent boolean expressions using simple and derived rules such as Demorgan's laws. Boolean logic rules are easily proved and demonstrated using truth tables to show for every possiblity of input, the expressions are equivalent.
 
 - **Computational Problem Solving:** Against popular opinion amongst my peers, this turned out to be one of my favorite courses. Offered under the Computer Engineering department this course dealt with numerical analysis, using numerical approximations to solve problems.
-  --**Numerical root finding** e.g. Newton-Rhapson (instead of algebraic solution of equations); systems of equations e.g. Gaussian Elimination, Gauss-Seidel, successive substitution
-  --**Numerical integration (summation)** e.g. Newton-Coates, trapezoidal, Simpson's 1/3 (3/8) rule, Richardson extrapolation, Gaussian Quadrature, Gaussion-Legendre, adaptive quadrature
-  --**Numerical differentiation** e.g. centered difference approximation
-  --**Numerical solution of ordinary differential equations** (single variable) e.g. Runge-Kutta, Euler's Method (Midpoint), Heun's
-  --**Interpolation** e.g. Newton Interpolating Polynomials (linear, 2nd order, nth order), Lagrange interpolating polynomials.
+  - **Numerical root finding** e.g. Newton-Rhapson (instead of algebraic solution of equations); systems of equations e.g. Gaussian Elimination, Gauss-Seidel, successive substitution
+  - **Numerical integration (summation)** e.g. Newton-Coates, trapezoidal, Simpson's 1/3 (3/8) rule, Richardson extrapolation, Gaussian Quadrature, Gaussion-Legendre, adaptive quadrature
+  - **Numerical differentiation** e.g. centered difference approximation
+  - **Numerical solution of ordinary differential equations** (single variable) e.g. Runge-Kutta, Euler's Method (Midpoint), Heun's
+  - **Interpolation** e.g. Newton Interpolating Polynomials (linear, 2nd order, nth order), Lagrange interpolating polynomials.
 This course had heavy integration with MATLAB which was a great experience, although boring at first when the first set of lectures was an introduction to MATLAB syntax. Numerical anaylisis is inherent in using computers to perform calculations. Being active in robotics club and utilzing sensors along with microncontroller coding gave me great appreciation for this class and topic. (I am also a calculator enthusiast.)      
 
 ![image](https://user-images.githubusercontent.com/67801725/197430475-ef14f23a-1e00-4537-84d4-b9e152f8d47f.png)
